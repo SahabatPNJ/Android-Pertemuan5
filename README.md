@@ -1,1 +1,2 @@
-# Android-Pertemuan5
+# Mempelajari tentang : 
+1. Membuat Navigasi Drawer
